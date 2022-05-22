@@ -1,0 +1,6 @@
+[package]
+name = "graphql-to-avro"
+version = "0.0.1"
+authors = ["Conor McManus <cnrmcmanus@gmail.com>"]
+description = "CLI tool for converting GraphQL type definitions to Avro JSON schemas"
+edition = "2021"
